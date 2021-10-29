@@ -2,7 +2,7 @@
 -Use Calculate Basis for E2 Page and Subdiagonal file to find the basis of the rigid cohomology groups. \
 -Use Frobenius reduction for cubics or quartics to find the zeta function. \
 -For those interested in seeing how to use the code, I made a video explaining how to find the zeta function for a hypersurface with 2 A2 singularities. Here are the links. \
--https://youtu.be/ZHh0_5CmboI   \ 
--https://youtu.be/tBOoezn0Rjc   \
--https://youtu.be/nYImH4caJAw   \
+-https://youtu.be/ZHh0_5CmboI  \ 
+-https://youtu.be/tBOoezn0Rjc  \
+-https://youtu.be/nYImH4caJAw  \
 Cite the code [![DOI](https://zenodo.org/badge/422038282.svg)](https://zenodo.org/badge/latestdoi/422038282)
